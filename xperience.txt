@@ -2,3 +2,4 @@ This is a new file under new branch.
 and it has been changed. 
 has been changed for slave
 another change for slave
+this is the conflict change.
